@@ -1,7 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_5","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"1","nickname":"1","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_2","characterIndex":1,"characterName":"Actor2","classId":2,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"2","nickname":"2","note":"","profile":""},
-{"id":3,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Evil","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"3","nickname":"3","note":"","profile":""},
-{"id":4,"battlerName":"Actor1_2","characterIndex":5,"characterName":"Evil","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"4","nickname":"4","note":"","profile":""}
+{"id":1,"battlerName":"Actor1_5","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"？？？","nickname":"？？？","note":"","profile":""}
 ]
